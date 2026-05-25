@@ -1,0 +1,26 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Mac System Files
+.DS_Store
+
+# Model Files (optional)
+# Remove this line if you WANT to upload model to GitHub
+# sentiment_rnn_model.h5
+
+# Environment Variables
+.env
